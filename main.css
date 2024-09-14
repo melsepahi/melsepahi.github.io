@@ -1,0 +1,51 @@
+body {
+    background-color: pink;
+    margin: 50px;
+}
+#mainheader {
+    color: green;
+}
+#logo {
+    margin: 0px;
+    padding: 8px;
+    font-family: "Fredoka one", sans-serif;
+    box-shadow: 2px 2px 2px 2px rgb(130, 75, 94) ;
+    width: 25%;
+}
+
+img {
+    border-radius: 100%;
+}
+h3 {
+    font-weight: 200;
+}
+#nav_ul {
+    display: flex
+    
+
+}
+
+#nav_ul > li {
+    padding: 8px;
+    float: right
+}
+
+body > header > nav> ul {
+    list-style: none;
+    text-decoration: none;
+    
+
+}
+.navbutton {
+    color: white;
+    text-decoration: none;
+    padding: 12px ;
+    border: 1px solid white;
+    border-radius: 10%;
+    display: flex;
+    float: right;
+    
+    
+    
+    
+
